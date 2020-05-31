@@ -22,3 +22,5 @@ Menú con 4 opciones:
   
 - Salir
   Guarda automaticamente la partida.
+
+Necesita los archivos de audio correspondientes.
